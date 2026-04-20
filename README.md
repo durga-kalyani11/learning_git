@@ -1,3 +1,3 @@
 # learning_git
-for learning purpose
+for learning 
 in visual studio
